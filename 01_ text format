@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Html</title>
+</head>
+<body>
+    <h1><i>Bangladesh</i></h1>
+    <h2><b><s>Bangladesh</s></b></h2>
+    <p>
+        <u>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</u> 
+        Natus, nihil sapiente illo dolores ratione suscipit dolor laudantium earum nobis, eveniet sit, nam porro assumenda modi ducimus eius nisi tempore.
+        <b> Sint praesentium suscipit ducimus maiores accusamus iusto placeat distinctio eum, reiciendis provident quae at molestias totam nobis dolor officiis voluptatum consectetur perspiciatis consequatur, molestiae, temporibus vel commodi labore.</b>
+         Nemo impedit voluptatum id distinctio repellat voluptas dolorum ea. Officia mollitia maxime, iure dolorum consectetur delectus harum nulla excepturi commodi. Molestias numquam officia quisquam magnam at itaque molestiae quas praesentium perferendis repudiandae et ipsam vero odio cum impedit eaque, maxime eos iste nihil.
+    </p>
+    <p>
+       <s> Lorem ipsum dolor sit amet consectetur adipisicing elit.</s>
+        Iure totam vero, iusto aliquam modi voluptas iste repellendus ullam a. Illum quisquam, laudantium cupiditate ipsam et quam sit dolorem veritatis facilis natus ipsum nobis, esse eaque, minima sequi! Sequi molestiae rem, similique sapiente vel amet nam quam velit, atque iusto laudantium.
+    </p>
+</body>
+</html>
