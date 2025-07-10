@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practice </title>
+</head>
+<body>
+    <h1 align="center"><u>Hellow &nbsp;&nbsp;&nbsp;Bangladesh</u></h1>
+    <h2 align="right">Bangladesh</h2>
+    <h3 align="left">Bangladesh</h3>
+    <p align="justify">
+        12<sup>th</sup>2025<br>
+        H<sub>2</sub>o<br><br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ex nemo et, nihil cumque rem deleniti facilis aut excepturi ea voluptate exercitationem molestiae enim itaque sunt est nesciunt consectetur possimus eaque fugiat voluptates.
+        <br> Deserunt fugit harum obcaecati natus rerum itaque quod sequi, molestias quas ad sunt? Fuga nam architecto laboriosam reiciendis.
+    </p>
+    <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque unde esse quae tempora repellendus deleniti minima suscipit? Non delectus quisquam magni id possimus eum earum provident doloribus perferendis distinctio, eligendi aperiam illo itaque rerum temporibus, exercitationem repellendus molestias rem voluptatem! Dolor, vero. Quas nam quo magnam consequatur officia, quia illo.
+    </p>
+</body>
+</html>
