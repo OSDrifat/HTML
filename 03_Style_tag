@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML practice</title>
+</head>
+<body>
+    <h1 style="text-align: center;color:rgb(217, 25, 25); background-color: black;
+     font-size: 50px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Hellow Bangladesh
+     </h1>
+    <p style="color:blue;" align="justify">
+        Lorem ipsum dolor sit <span style="color:rgb(550,140,1400);font-size:40px">amet</span>  consectetur adipisicing elit. Doloremque magnam expedita dolorum sint eos vitae molestiae! Minima ad tempore, magnam error eos asperiores culpa beatae impedit voluptas sequi veritatis expedita quam nulla atque, consectetur praesentium aliquam maiores? Illum, excepturi temporibus eligendi earum, odio, cumque ducimus ex esse amet aliquam nobis?
+    </p>
+    <p style="background-color: rgb(16, 143, 222);">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam praesentium architecto quibusdam voluptatem qui consequatur ipsum vero quas ad alias?
+    </p>
+
+    
+</body>
+</html>
