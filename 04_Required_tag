@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Html</title>
+</head>
+<body>
+    <h1></h1>
+    <abbr title="Bangladesh">BD</abbr><br>
+    <abbr title="Dhaka">DH</abbr>
+    <blockquote>
+        Lorem ipsum, <small>dolor sit amet</small> consectetur adipisicing elit.<q> Laudantium obcaecati culpa officia</q> doloribus totam, esse adipisci, molestiae quidem, voluptatum a quos corporis iste vero consequatur inventore? <cite> eius commodi voluptatem, laboriosam delectus dicta quia nesciunt maxime soluta!</cite> Recusandae hic molestiae corrupti, consequatur officiis quibusdam autem excepturi in? Consequatur, reiciendis illo.
+    </blockquote>
+    <address>
+        House no:100<br>
+        Road no: 32<br>
+        Rangpur
+    </address>
+</body>
+</html>
