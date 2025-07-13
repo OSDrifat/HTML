@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html</title>
+</head>
+<body>
+    <h1 style="text-align: center;">How to add image</h1>
+    <img src="Image/animal.jpeg" alt="Animal"><br>
+    <img src="Image/cat.jpeg">
+    <img src="Image/tiger.jpeg"><br><br><br>
+    <a href="https://www.facebook.com" target="black">Click Here</a>
+</body>
+</html>
