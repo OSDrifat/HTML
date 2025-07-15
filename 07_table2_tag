@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practice</title>
+</head>
+<body>
+    <table border="1" style="width: 70%; margin: auto;text-align: center;border-collapse: collapse;margin-top: 50px;">
+   <caption>Table</caption>
+        <tr style= "height:40px;background-color: cadetblue;color:white">
+        <td colspan="3">Website Name</td>
+    </tr>
+     <tr style="height:140px;background-color: chocolate;" >
+        
+        <td>Menu</td>
+        <td>Content Area</td>
+        <td>ADVT</td>
+        
+    </tr>
+     <tr height="40px">
+        <td>5</td>
+        <td>6</td>
+        <td>2</td>
+    </tr>
+     <tr style="height:40px;background-color:darkgreen;color:white;">
+        <td colspan="3">Footer</td>
+    </tr>
+    </table>
+</body>
+</html>
