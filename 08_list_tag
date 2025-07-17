@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html</title>
+</head>
+<body>
+    <ul type="circle">
+        <li>Book</li>
+        <li>Pen</li>
+        <li>Paper</li>
+    </ul>
+    <ol type="A">
+        <li>Book</li>
+        <li>Pen</li>
+        <li>Paper</li>
+    </ol>
+    <ol type="I" start="5">
+        <li>Book</li>
+        <li>Pen</li>
+        <li>Paper</li>
+    </ol>
+
+    <dl>
+        <dt>Bangladesh:</dt>
+        <dd>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis consectetur omnis doloremque quis ipsam reprehenderit exercitationem dolor veritatis odit ipsa, accusantium amet perferendis doloribus molestiae sint harum neque repellat. Explicabo.</dd>
+    </dl>
+    
+</body>
+</html>
