@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <marquee behavior="" scrollamount="10" direction="" style="background-color: brown; color:white;padding: 10px 0px;">Hellow Bangladesh</marquee>
+    <marquee behavior="" scrollamount="5" direction="" style="background-color: brown;color:white;padding: 10px;">Hellow Bangladesh</marquee>
+    <marquee behavior="" scrollamount="5" direction="right" style="background-color: brown;color:white;padding: 10px;margin-top: 20px;">Hellow Bangladesh</marquee>
+    <marquee onmouseover="this.stop()" onmouseout="this.start()" behavior="alternate" scrollamount="15" direction="" style="background-color: brown;color:white;padding: 10px;margin-top: 20px;">Hellow Bangladesh</marquee>
+    <marquee behavior="" scrollamount="5" direction="up" style="background-color: brown;color:white;padding: 10px;width: 150px;height: 150px;text-align: center;">Hellow Bangladesh</marquee>
+</body>
+</html>
