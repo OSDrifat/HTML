@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Helow Bangladesh</h1>
+    <hr width="60%" color="red" size="5">
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem aliquam quis ut, voluptate illo id libero, ab facere cum optio eveniet doloribus accusamus a? Rem facilis quo rerum. Eius!
+    </p>
+    <hr width="80%" size="4" color="blue" align="left">
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, corporis porro excepturi dolor perspiciatis qui atque maiores, sit illo quaerat ratione incidunt hic deleniti animi officiis minus perferendis quod delectus aspernatur labore similique neque. Sed, eaque dolore eligendi, tempore labore culpa sit ut amet cum officiis cumque molestias, optio ipsa?
+    </p>
+    <pre>Hellow     World
+      youtube
+    </pre>
+</body>
+</html>
