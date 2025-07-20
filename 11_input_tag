@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    First Name <br>
+    <input type="text" placeholder="Enter Your First Nmae"><br><br>
+    Last Name<br>
+    <input type="text" placeholder="Enter your last Name"><br><br>
+    Email<br>
+    <input type="email" placeholder="Enter Your Email"><br><br>
+     Password<br>
+    <input type="password" placeholder="Write Your Password"><br><br>
+     Age<br>
+    <input type="number" placeholder="Your Age Here"><br><br>
+     Date of Birth<br>
+    <input type="date"><br><br>
+    country<br> 
+    <select>
+        <option>Search Your Country</option>
+        <option>Bangladesh</option>
+        <option>Pakistan</option>
+        <option>USA</option>
+        <option>japan</option>
+    </select><br><br>
+    Choose Your Favorite Color<br>
+    <input type="checkbox">Blue
+    <input type="checkbox">Yellow
+    <input type="checkbox">Red<br><br>
+
+    Gender<br>
+    <input type="radio" name="Gender">Male<br>
+    <input type="radio" name="Gender">Female<br><br>
+
+    <button>Log In</button><br>
+
+     <button>Reset</button>
+
+
+</body>
+</html>
